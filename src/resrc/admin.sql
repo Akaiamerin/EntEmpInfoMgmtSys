@@ -1,0 +1,1 @@
+INSERT INTO ent_emp_info_mgmt_sys.admin (acct, pwd) VALUES ('admin', '111111');
